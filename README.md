@@ -77,7 +77,7 @@ Our experiments, conducted under a comparable time budget for each strategy, led
 ### Visualization of the Best Result
 This is the optimal path found by our best algorithm (MA-Inverse), which is identical to the path found by Concorde.
 
-![Optimal Path Found](.\figures\GA_inverse_2-opt\GA_inverse_2-opt_figure.png "Optimal Path Found by MA-Inverse")
+![Optimal Path Found](./figures/GA_inverse_2-opt/GA_inverse_2-opt_figure.png "Optimal Path Found by MA-Inverse")
 
 ![concorde_path](concorde_path.png)
 
