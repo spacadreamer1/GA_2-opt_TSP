@@ -1,6 +1,6 @@
 # Solving the Travelling Salesman Problem with Genetic Algorithms
 
-This repository contains the source code and experimental results for the "Practical 1: Travelling Salesman Problem by GA" project for the Computational Intelligence course. The project involves designing, implementing, and progressively optimizing a Genetic Algorithm (GA) to solve the Travelling Salesman Problem (TSP) for both an 8-city demo and a more complex 70-city challenge.
+This repository contains the source code and experimental results for the "Travelling Salesman Problem by GA" project for the Computational Intelligence course. The project involves designing, implementing, and progressively optimizing a Genetic Algorithm (GA) to solve the Travelling Salesman Problem (TSP) for both an 8-city demo and a more complex 70-city challenge.
 
 ## Project Structure
 
